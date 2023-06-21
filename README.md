@@ -1,5 +1,5 @@
 # 💫 Sou um pouco:
-louco<br>esquizofrênico<br>Psicótico<br>Paranóico<br>Esquizoide<br>Delirante<br>Alucinado<br>Desorganizado<br>Perturbado<br>Insano<br>Desconectado<br>Desorientado
+louco<br>esquizofrênico<br>Psicótico<br>Paranóico<br>Esquizoide<br>Delirante<br>Alucinado<br>Desorganizado<br>Extrema Direita<br>Perturbado<br>Insano<br>Desconectado<br>Desorientado
 
 
 ## 🌐 Redes social:
