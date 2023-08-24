@@ -29,4 +29,4 @@ louco<br>esquizofrênico<br>Psicótico<br>Paranóico<br>Esquizoide<br>Delirante<
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/srbatista2/srbatista2/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/srbatista2/srbatista2/blob/main/github-contribution-grid-snake.svg)
